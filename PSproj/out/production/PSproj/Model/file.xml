@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Biblioteca>
+    <student>
+        <id>101</id>
+        <firstname>Naman</firstname>
+        <lastname>Kumar</lastname>
+        <subject>Math</subject>
+        <marks>83</marks>
+    </student>
+
+    <student>
+        <id>102</id>
+        <firstname>Kapil</firstname>
+        <lastname>Kumar</lastname>
+        <subject>Chemistry</subject>
+        <marks>60</marks>
+    </student>
+
+    <student>
+        <id>103</id>
+        <firstname>Harsh</firstname>
+        <lastname>Singh</lastname>
+        <subject>English</subject>
+        <marks>70</marks>
+    </student>
+
+    <student>
+        <id>104</id>
+        <firstname>Jitesh</firstname>
+        <lastname>Singh</lastname>
+        <subject>Physics</subject>
+        <marks>76</marks>
+    </student>
+
+    <utilizator>
+        <nume>Muresan Cristina</nume>
+        <biblioteca>Daicoviciu</biblioteca>
+        <rol>administrator</rol>
+        <cont>Cristina Muresan</cont>
+        <parola>cristina</parola>
+    </utilizator>
+
+    <utilizator>
+        <nume>Pop Mihai</nume>
+        <biblioteca>Observator</biblioteca>
+        <rol>administrator</rol>
+        <cont>mihai</cont>
+        <parola>mihai</parola>
+    </utilizator>
+
+    <utilizator>
+        <nume>Nuca Dan</nume>
+        <biblioteca>Observator</biblioteca>
+        <rol>abonat</rol>
+        <cont>NucaDan</cont>
+        <parola>nucadan</parola>
+    </utilizator>
+
+    
+
+    <utilizator>
+        <nume>Marius</nume>
+        <biblioteca>Observator</biblioteca>
+        <rol>bibliotecar</rol>
+        <cont>marius</cont>
+        <parola>marius</parola>
+    </utilizator>
+    <carte>
+        <titlu>Marea alba</titlu>
+        <autor>Nicolae Catis</autor>
+        <editura>speranta</editura>
+        <disponibilitate>6</disponibilitate>
+        <biblioteca>Daicoviciu</biblioteca>
+        <domeniu>stiinta</domeniu>
+    </carte>
+
+    <carte>
+        <titlu>Printesa</titlu>
+        <autor>Pavel Ataim</autor>
+        <editura>Casa Alba</editura>
+        <disponibilitate>4</disponibilitate>
+        <biblioteca>Observator</biblioteca>
+        <domeniu>poveste</domeniu>
+    </carte>
+    <carte>
+        <titlu>Fizica</titlu>
+        <autor>Aurel Martin</autor>
+        <editura>speranta</editura>
+        <disponibilitate>4</disponibilitate>
+        <biblioteca>Daicoviciu</biblioteca>
+        <domeniu>stiinta</domeniu>
+    </carte>
+    <carte>
+        <titlu>Ultima foaie</titlu>
+        <autor>Marcela anghel</autor>
+        <editura>speranta</editura>
+        <disponibilitate>4</disponibilitate>
+        <biblioteca>Daicoviciu</biblioteca>
+        <domeniu>SF</domeniu>
+    </carte>
+
+<utilizator><nume>maria</nume><biblioteca>Observator</biblioteca><rol>abonat</rol><cont>maria</cont><parola>maria</parola></utilizator>
+    <utilizator>
+        <nume>dani</nume>
+        <biblioteca>Daicoviciu</biblioteca>
+        <rol>abonat</rol>
+        <cont>dani</cont>
+        <parola>dani</parola>
+    </utilizator>
+<carte><titlu>raul negru</titlu><autor>Fanel Crisan</autor><editura>Fanel Crisan</editura><domeniu>drama</domeniu><disponibilitate>89</disponibilitate><biblioteca>Marasti</biblioteca></carte><utilizator><nume>sara</nume><biblioteca>Observator</biblioteca><rol>abonat</rol><cont>sara</cont><parola>sara</parola></utilizator><utilizator><nume/><biblioteca>null</biblioteca><rol>bibliotecar</rol><cont/><parola/></utilizator></Biblioteca>
